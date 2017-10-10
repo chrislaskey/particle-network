@@ -6,6 +6,8 @@ Based on [VincentGarreau/particles.js](https://github.com/VincentGarreau/particl
 
 ## Demo
 
+[![View the Demo](https://github.com/chrislaskey/particle-network/blob/master/demo.png)](https://chrislaskey.github.io/particle-network/)
+
 View the [demo](https://chrislaskey.github.io/particle-network/)
 
 ## Usage
