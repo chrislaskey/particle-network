@@ -45,6 +45,8 @@ const Page = () => (
     <h1>Hello World</h1>
   </header>
 )
+
+export default Page
 ```
 
 To style the component pass an `id` attribute.
