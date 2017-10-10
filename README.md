@@ -4,6 +4,10 @@
 
 Based on [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js/).
 
+## Demo
+
+View the [demo](https://chrislaskey.github.io/particle-network/)
+
 ## Usage
 
 ### Basic HTML
