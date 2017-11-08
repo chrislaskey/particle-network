@@ -84,11 +84,6 @@ ParticleNetwork.prototype.init = function () {
       'background-size': 'cover'
     })
   }
-  // Else throw error
-  else {
-    console.error('Please specify a valid background image or hexadecimal color')
-    return false
-  }
 
   // Check if valid particleColor
   if (!(/(^#[0-9A-F]{6}$)|(^#[0-9A-F]{3}$)/i).test(this.options.particleColor)) {
