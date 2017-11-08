@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { findDOMNode } from 'react-dom'
-import ParticleNetwork from '../lib/particle-network'
+import particleNetwork from '../lib/particle-network'
 
 class ParticleNetwork extends Component {
   componentDidMount () {
@@ -10,7 +10,7 @@ class ParticleNetwork extends Component {
       velocity: 0.5
     }
 
-    new ParticleNetwork(container, options) // eslint-disable-line
+    new particleNetwork(container, options) // eslint-disable-line
   }
 
   render () {
